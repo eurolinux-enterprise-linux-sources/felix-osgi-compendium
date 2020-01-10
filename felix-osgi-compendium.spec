@@ -7,7 +7,7 @@
 
 Name:    felix-osgi-compendium
 Version: 1.4.0
-Release: 18%{?dist}
+Release: 19%{?dist}
 Summary: Felix OSGi R4 Compendium Bundle
 
 Group:   Development/Libraries
@@ -76,6 +76,9 @@ API documentation for %{name}.
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.4.0-19
+- Mass rebuild 2013-12-27
+
 * Wed Sep 18 2013 Mikolaj Izdebski <mizdebsk@redhat.com> - 1.4.0-18
 - Add missing BR: felix-parent
 
